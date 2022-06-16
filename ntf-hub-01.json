@@ -1,0 +1,8 @@
+{
+    "name": "NTF Dev Hub v0.1",
+    "description": "An iframe pointed to a cloud development envrionment's build output folder.",
+    "image": "ipfs://QmYqjEvWonip2vd3UrBN9AEWzLdRDZQjoZwAGq12irS7fA/image.jpg",
+    "animation_url": "ipfs://QmYqjEvWonip2vd3UrBN9AEWzLdRDZQjoZwAGq12irS7fA/index.html",
+    "royalty_percentage": 0,
+    "artist": "motionharvest.com"
+}
